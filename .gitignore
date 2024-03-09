@@ -1,0 +1,7 @@
+.idea/
+.venv/
+
+.env
+round-gamma-415911-ad7713544fc2.json
+
+__pycache__/
